@@ -7,7 +7,7 @@ W. Avy liked the analysis I did earlier, but he wants more information about tem
 
 ## Results 
 
-!(june.png)
+![June Results](june.png)
 
     • The mean of both months' temperatures only varies by 3.9 degrees. 
     • The lowest temperature in June was 64 degrees while the lowest in December was 56 degrees. 
