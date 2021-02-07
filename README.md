@@ -1,4 +1,4 @@
-# surfs_up analysis
+# Surfs Up Analysis
 
 
 ## Overview
@@ -18,7 +18,7 @@ W. Avy liked the analysis I did earlier, but he wants more information about tem
 
 W. Avy wants to open a Surf and Ice Cream Shop that is sustainable year-round -- temperature is a major factor that comes into play when determining if that would be a smart business or not. Viewing the results for both months', there are reasonable conclusions that can be made: 
 
-    • The difference in means' of only 3.9 degrees is not a significant difference at all - both temperatures are still in the 70s which is still relatively warm weather  
+    • The difference in means' of only 3.9 degrees is not a significant difference at all - both temperatures are still in the 70s which is still relatively warm weather.  
     • The difference in lowest temepratures is 8 degrees - although it does not seem like a high variance, 56 degrees is extremely low compared to the higher temperatures they're used. It would be safe to assume that most of our clientele would pass on surfing and eating ice cream during this time. 
     • The December weather is quite alarming - the difference between the highest and lowest temperatures is 27 degrees which shows how the temperature is extremely unstable in the winter. 
 
